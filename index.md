@@ -8,3 +8,6 @@
 String Hackerman = "Hacker";
 Hackerman String
 ```
+- [ ] Read - Repeat
+- [ ] Read - Finish
+- [ ] Read - Drink
